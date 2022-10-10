@@ -1,2 +1,2 @@
 # instituto
-repositori institut
+repositori para guardar proyectos instituto 
